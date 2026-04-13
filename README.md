@@ -203,9 +203,10 @@ Raw Microservices Logs (CSV)
 
 | Name | Role |
 |---|---|
-| Hemanth Kumar | Model Development |
+| Hemanth Kumar | Data Processing & Evaluation|
 | Siva Surya Naidu | Dashboard & Visualization |
-| Triveni | Data Processing & Evaluation |
+| Devi | Model Development Phase 1 & 2 |
+| Triveni | Model Development Phase 3 & 4|
 | Vaikunta Rao | Documentation & Research |
 
 *Internship project — Long Internship Program*
