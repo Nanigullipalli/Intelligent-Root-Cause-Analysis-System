@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1-WjxS31PkdXsigy2z0MNwMF5zkfdlZKq
 """
 
-!pip install streamlit pyngrok plotly pandas scikit-learn -q
+pip install streamlit pyngrok plotly pandas scikit-learn -q
 
 # Commented out IPython magic to ensure Python compatibility.
 %%writefile app.py
